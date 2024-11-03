@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and create cool projects. Here’s a little about me:
 
-- 💻 I love coding in **JavaScript**, **Python**, and **Go**.
+- 💻 I love coding in **JavaS**and **C**.
 - 🚀 Currently working on some exciting projects in **web development** and **machine learning**.
 - 🌱 I'm always learning new things!
 
@@ -10,10 +10,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ### 🛠️ Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Java]   
+![C]
 
 ---
 
