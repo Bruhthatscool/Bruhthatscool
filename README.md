@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and create cool projects. Here’s a little about me:
 
-- 💻 I love coding in **JavaS**and **C**.
-- 🚀 Currently working on some exciting projects in **web development** and **machine learning**.
+- 💻 I love coding in **Java**and **C**.
+- 🚀 Currently working on some exciting projects in **web development**.
 - 🌱 I'm always learning new things!
 
 ---
