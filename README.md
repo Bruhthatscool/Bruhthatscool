@@ -48,8 +48,6 @@ Here’s a fun little animation for you:
 
 ### 📫 How to Reach Me
 
-- [Twitter](https://twitter.com/Bruhthatscool)
-- [LinkedIn](https://linkedin.com/in/Bruhthatscool)
-- [Personal Website](https://bruhthatscool.dev)
-
+- [Email](h0p3ful15@gmail.com)
+- [LinkedIn](https://in.linkedin.com/in/anna-grace-abraham-695119288)
 Thanks for stopping by! 🚀
