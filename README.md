@@ -25,8 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ### 👥 Visitors Count
 
-![Visitor Count](https://profile-counter.glitch.me/Bruhthatscool/count.svg)
-
+![Visitor Count](https://komarev.com/ghpvc/?username=Bruhthatscool&label=Visitors&color=0e75b6&style=flat)
 ---
 
 ### 🌟 Quirky Animations
