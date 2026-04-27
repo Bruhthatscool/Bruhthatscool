@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruhthatscool&layout=compact&theme=radical)
 
 ---
-
+<!--
 ### 🌟 Quirky Animations
 
 Here’s a fun little animation for you:
@@ -49,7 +49,7 @@ Frame 3:
 
 </details>
 
----
+--->
 
 ### 📫 How to Reach Me
 
