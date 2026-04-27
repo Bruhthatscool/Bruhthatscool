@@ -34,8 +34,17 @@ Here’s a fun little animation for you:
 <summary>Click to see a cool surprise!</summary>
   
 <pre>
+Frame 1:
    ,--.
 ,--.'|
+
+Frame 2:
+   ,--.
+,--.'|  o
+
+Frame 3:
+   ,--.
+,--.'|  o/
 </pre>
 
 </details>
