@@ -32,13 +32,12 @@ Here’s a fun little animation for you:
 
 <details>
 <summary>Click to see a cool surprise!</summary>
+  
 <pre>
-
    ,--.
 ,--.'|
-
-
 </pre>
+
 </details>
 
 ---
