@@ -23,9 +23,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ---
 
-### 👥 Visitors Count
-
-<img src="https://komarev.com/ghpvc/?username=Bruhthatscool&color=blue" style="height:80px;">
 ### 🌟 Quirky Animations
 
 Here’s a fun little animation for you:
